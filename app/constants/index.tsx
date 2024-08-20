@@ -52,14 +52,14 @@ const testimonials = [
 		image: "/socialmedia/linkedin.svg",
 		link: "https://www.linkedin.com/posts/turabaev-azizbek-a5ab921a0_hiringtalent-diversitymatters-globalworkforce-activity-7115272147874316288-7Md6?utm_source=share&utm_medium=member_desktop",
 	},
-	// {
-	// 	id: 3,
-	// 	testimonial:
-	// 		"Dribbble is a self-promotion and social networking platform for digital designers and creatives. It serves as a design portfolio.",
-	// 	name: "Om Patel",
-	// 	image: "/socialmedia/dribble.svg",
-	// 	link: "https://dribbble.com/om2121",
-	// },
+	{
+		id: 3,
+		testimonial:
+			"AI",
+		name: "Adam",
+		image: "/socialmedia/telogo.png",
+		link: "https://t.me/turabaev9/22",
+	},
 	// {
 	// 	id: 4,
 	// 	testimonial:
